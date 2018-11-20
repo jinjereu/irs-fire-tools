@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '11.0'
+use_frameworks!
+
+target 'IRSFiretools' do
+  use_frameworks!
+
+  # Pods for IRSFiretools
+  pod 'SwiftLint', '~> 0.27'
+  pod 'Firebase/Core'
+	pod 'Firebase/InAppMessagingDisplay'
+	
+end
