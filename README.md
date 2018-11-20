@@ -12,4 +12,4 @@ Here are the steps to integrate In-App Messaging:
 * [Setup Firebase Project, Add Firebase to the Project](https://firebase.google.com/docs/ios/setup)
 * [Add the Firebase In-App Messaging SDK to your project](https://firebase.google.com/docs/in-app-messaging/get-started)  
 
-
+Note: We have excluded the GoogleService-Info.plist file as this contains our APIKeys and other credentials. Obtain this from your Firebase Console.
